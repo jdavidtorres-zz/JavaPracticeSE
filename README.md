@@ -1,2 +1,2 @@
 # JavaPracticeSE
- Estudio de temas básicos y no tan básicos de Java
+ Estudio de temas básicos y no tan básicos de Java. Trabajos de escuela y más...
